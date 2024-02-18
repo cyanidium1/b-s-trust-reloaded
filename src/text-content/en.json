@@ -1,0 +1,108 @@
+{
+    "getEstates": {
+        "title": "REAL ESTATE IN ALBANIA",
+        "subtitle": "Buy property by the sea and get a RESIDENCE PERMIT",
+        "buttonText": "Receive free selection",
+        "features": [
+            "Assistance in selection and acquisition of real estate",
+            "Repairs, interior design, and furnishing",
+            "Rental and management of your property"
+        ]
+    },
+    "albaniaMap": {
+        "title": "WHY ALBANIA?",
+        "features": [
+            "Affordable real estate on the Adriatic and Ionian Seas",
+            "Ranked among the TOP safest countries in Europe",
+            "Favorable climate and 300 sunny days per year",
+            "Ecologically clean food products",
+            "The most progressive residency program in Europe"
+        ]
+    },
+    "tour": {
+        "title": "Investment Tour to Albania",
+        "description": "Free introductory tour of real estate in Albania",
+        "steps": [
+            {
+                "number": "01.",
+                "title": "5-day tour",
+                "description": "City tours and walks. Inspection of schools and universities"
+            },
+            {
+                "number": "02.",
+                "title": "Convenient dates for you"
+            },
+            {
+                "number": "03.",
+                "title": "Airport meeting"
+            },
+            {
+                "number": "04.",
+                "title": "Airport/hotel/airport transfer",
+                "description": "Consultation on transaction formalities"
+            },
+            {
+                "number": "05.",
+                "title": "Viewing real estate objects",
+                "description": "Legal services. Obtaining a residence permit. Opening a bank account"
+            }
+        ]
+    },
+    "investForm": {
+        "formTitle": "Application Form",
+        "formDescription": "Leave an application and our expert will contact you",
+        "nameLabel": "Name",
+        "phoneLabel": "Phone Number",
+        "submitButtonText": "Submit Application",
+        "invalidPhone": "Phone must start with + and have at least 7 digits.",
+        "invalidName": "Name must consist of at least 2 letters."
+    },
+    "contacts": {
+        "logoAltText": "Logo",
+        "realEstateText": "Real Estate",
+        "investmentTourText": "Investment Tour",
+        "regionsText": "Cities of Albania",
+        "phoneIcon": {
+            "icon": "phone",
+            "number": "+380 93 512 85 47"
+        },
+        "locationIcon": {
+            "icon": "location",
+            "address": "Durrës, Albania",
+            "mapLink": "https://maps.app.goo.gl/yjVAhm7VPZNqnm3x7"
+        }
+    },
+    "footer": {
+        "subscribeTitle": "Subscribe and stay informed about current events in the world of real estate in Albania!",
+        "socialMedia": [
+            {
+                "icon": "whatsapp",
+                "link": "https://wa.me/qr/XXBDREVA66NMP1",
+                "color": "#25D366"
+            },
+            {
+                "icon": "telegram",
+                "link": "https://www.t.me/real_estate_al",
+                "color": "#229ED9"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/profile.php?id=100069581861273&mibextid=9R9pXO",
+                "color": "#1877F2"
+            }
+        ],
+        "subscriptionBenefits": [
+            "Real estate market news in Albania",
+            "Notifications of new sales launches",
+            "Access to exclusive properties at the pre-sale stage",
+            "Investment proposals"
+        ],
+        "youtubeLink": "https://youtube.com/@albania_gid",
+        "tiktokLink": "https://www.tiktok.com/@real_estate_albania",
+        "we": "We in"
+    },
+    "investModal": {
+        "thanks": "Thank you for your request, we will contact you shortly!",
+        "close": "Close"
+    }
+}

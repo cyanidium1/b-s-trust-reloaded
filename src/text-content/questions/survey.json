@@ -1,0 +1,412 @@
+{
+    "ru": [
+        {
+            "id": 1,
+            "question": "Ваша цель покупки недвижимости?",
+            "options": [
+                "Проживание и получения ВНЖ",
+                "Сезонный отдых",
+                "Доход в виде аренды",
+                "Другие цели"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Укажите Ваш бюджет для инвестиций в €",
+            "options": [
+                "30,000 - 50,000€",
+                "50,000 - 80,000€",
+                "Более 80,000€"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Какой тип недвижимости Вас интересует?",
+            "options": [
+                "Апартаменты",
+                "Вилла",
+                "Таунхаус",
+                "Коммерция"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Ваши предпочтения по году постройки/сдаче в эксплуатацию?",
+            "options": [
+                "На этапе строительства",
+                "2020 - 2024 год",
+                "2000 - 2019 год",
+                "до 2000 года"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Ваше имя",
+            "type": "input"
+        },
+        {
+            "id": 6,
+            "question": "Ваш номер телефона",
+            "type": "input"
+        },
+        {
+            "id": 7,
+            "question": "Выберите удобный способ для связи",
+            "options": [
+                "Телефон",
+                "Email",
+                "WhatsApp",
+                "Telegram"
+            ]
+        }
+    ],
+    "ua": [
+        {
+            "id": 1,
+            "question": "Ваша ціль придбання нерухомості?",
+            "options": [
+                "Проживання та отримання постійного місця проживання",
+                "Сезонний відпочинок",
+                "Дохід у вигляді оренди",
+                "Інші цілі"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Вкажіть Ваш бюджет для інвестицій в €",
+            "options": [
+                "30,000 - 50,000€",
+                "50,000 - 80,000€",
+                "Понад 80,000€"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Який тип нерухомості вас цікавить?",
+            "options": [
+                "Апартаменти",
+                "Вілла",
+                "Таунхаус",
+                "Комерція"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Ваші вподобання щодо року будівництва/здачі в експлуатацію?",
+            "options": [
+                "На етапі будівництва",
+                "2020 - 2024 рік",
+                "2000 - 2019 рік",
+                "до 2000 року"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Ваше ім'я",
+            "type": "input"
+        },
+        {
+            "id": 6,
+            "question": "Ваш номер телефону",
+            "type": "input"
+        },
+        {
+            "id": 7,
+            "question": "Виберіть зручний спосіб для зв'язку",
+            "options": [
+                "Телефон",
+                "Електронна пошта",
+                "WhatsApp",
+                "Telegram"
+            ]
+        }
+    ],
+    "en": [
+        {
+            "id": 1,
+            "question": "What is your purpose of buying real estate?",
+            "options": [
+                "Residency and obtaining a residence permit",
+                "Seasonal vacation",
+                "Income through rent",
+                "Other purposes"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Specify Your budget for investments in €",
+            "options": [
+                "30,000 - 50,000€",
+                "50,000 - 80,000€",
+                "More than 80,000€"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "What type of real estate are you interested in?",
+            "options": [
+                "Apartments",
+                "Villa",
+                "Townhouse",
+                "Commercial"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Your preferences regarding the year of construction/delivery to use?",
+            "options": [
+                "At the construction stage",
+                "2020 - 2024",
+                "2000 - 2019",
+                "Before 2000"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Your name",
+            "type": "input"
+        },
+        {
+            "id": 6,
+            "question": "Your phone number",
+            "type": "input"
+        },
+        {
+            "id": 7,
+            "question": "Choose a convenient way to communicate",
+            "options": [
+                "Phone",
+                "Email",
+                "WhatsApp",
+                "Telegram"
+            ]
+        }
+    ],
+    "pl": [
+        {
+            "id": 1,
+            "question": "Jaki jest cel zakupu nieruchomości?",
+            "options": [
+                "Mieszkanie i uzyskiwanie zezwolenia na pobyt",
+                "Sezonowy wypoczynek",
+                "Dochód z wynajmu",
+                "Inne cele"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Podaj swój budżet na inwestycje w €",
+            "options": [
+                "30,000 - 50,000€",
+                "50,000 - 80,000€",
+                "Ponad 80,000€"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Jaki rodzaj nieruchomości Cię interesuje?",
+            "options": [
+                "Apartamenty",
+                "Willa",
+                "Dom w zabudowie szeregowej",
+                "Komercyjna"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Wasze preferencje co do roku budowy/oddania do użytku?",
+            "options": [
+                "Na etapie budowy",
+                "2020 - 2024 rok",
+                "2000 - 2019 rok",
+                "Przed rokiem 2000"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Twoje imię",
+            "type": "input"
+        },
+        {
+            "id": 6,
+            "question": "Twój numer telefonu",
+            "type": "input"
+        },
+        {
+            "id": 7,
+            "question": "Wybierz wygodny sposób komunikacji",
+            "options": [
+                "Telefon",
+                "Email",
+                "WhatsApp",
+                "Telegram"
+            ]
+        }
+    ],
+    "cz": [
+        {
+            "id": 1,
+            "question": "Jaký je váš účel nákupu nemovitosti?",
+            "options": [
+                "Bydlení a získání trvalého pobytu",
+                "Sezónní dovolená",
+                "Příjem z pronájmu",
+                "Jiné účely"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Uveďte váš rozpočet na investice v €",
+            "options": [
+                "30,000 - 50,000€",
+                "50,000 - 80,000€",
+                "Více než 80,000€"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Jaký druh nemovitosti vás zajímá?",
+            "options": [
+                "Byt",
+                "Vila",
+                "Řadový dům",
+                "Komerční"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Vaše preference ohledně roku výstavby/uzavření do užívání?",
+            "options": [
+                "Ve fázi výstavby",
+                "2020 - 2024 rok",
+                "2000 - 2019 rok",
+                "Před rokem 2000"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Vaše jméno",
+            "type": "input"
+        },
+        {
+            "id": 6,
+            "question": "Vaše telefonní číslo",
+            "type": "input"
+        },
+        {
+            "id": 7,
+            "question": "Vyberte pohodlný způsob komunikace",
+            "options": [
+                "Telefon",
+                "Viber",
+                "WhatsApp",
+                "Telegram"
+            ]
+        }
+    ],
+    "it": [
+        {
+            "id": 1,
+            "question": "Qual è il tuo scopo nell'acquistare immobili?",
+            "options": [
+                "Residenza e ottenimento del permesso di soggiorno",
+                "Vacanza stagionale",
+                "Reddito attraverso l'affitto",
+                "Altri scopi"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Specificare il vostro budget per gli investimenti in €",
+            "options": [
+                "30,000 - 50,000€",
+                "50,000 - 80,000€",
+                "Oltre 80,000€"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Che tipo di immobili ti interessa?",
+            "options": [
+                "Appartamenti",
+                "Villa",
+                "Casa a schiera",
+                "Commerciale"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Le vostre preferenze sull'anno di costruzione/consegna per l'uso?",
+            "options": [
+                "In fase di costruzione",
+                "2020 - 2024",
+                "2000 - 2019",
+                "Prima del 2000"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Il tuo nome",
+            "type": "input"
+        },
+        {
+            "id": 6,
+            "question": "Il tuo numero di telefono",
+            "type": "input"
+        },
+        {
+            "id": 7,
+            "question": "Scegli un modo comodo per comunicare",
+            "options": [
+                "Telefono",
+                "Viber",
+                "WhatsApp",
+                "Telegram"
+            ]
+        }
+    ],
+    "controls": {
+        "en": {
+            "next": "Next",
+            "back": "Back",
+            "exit": "Exit",
+            "noNumber": "Please enter a number",
+            "finish": "Finish"
+        },
+        "ua": {
+            "next": "Далі",
+            "back": "Назад",
+            "exit": "Вийти",
+            "noNumber": "Будь ласка, заповніть поле",
+            "finish": "Завершити"
+        },
+        "pl": {
+            "next": "Następny",
+            "back": "Wstecz",
+            "exit": "Wyjście",
+            "noNumber": "Proszę podać numer",
+            "finish": "Zakończ"
+        },
+        "cz": {
+            "next": "Dále",
+            "back": "Zpět",
+            "exit": "Odejít",
+            "noNumber": "Prosím, vyplňte pole",
+            "finish": "Dokončit"
+        },
+        "it": {
+            "next": "Avanti",
+            "back": "Uscire",
+            "exit": "Esci",
+            "noNumber": "Inserisci un numero, per favore",
+            "finish": "Termina"
+        },
+        "ru": {
+            "next": "Дальше ",
+            "back": "Назад",
+            "exit": "Выйти",
+            "noNumber": "Введите, пожалуйста, данные",
+            "finish": "Закончить"
+        }
+    }
+}

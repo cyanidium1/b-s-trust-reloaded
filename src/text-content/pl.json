@@ -1,0 +1,108 @@
+{
+    "getEstates": {
+        "title": "NIERUCHOMOŚCI W ALBANII",
+        "subtitle": "Kup nieruchomość nad morzem i uzyskaj ZEZWOLENIE NA POBYT",
+        "buttonText": "Uzyskaj bezpłatny wybór",
+        "features": [
+            "Pomoc w doborze i zakupie nieruchomości",
+            "Naprawy, projektowanie wnętrz i umeblowanie",
+            "Wynajem i zarządzanie twoją nieruchomością"
+        ]
+    },
+    "albaniaMap": {
+        "title": "DLACZEGO ALBANIA?",
+        "features": [
+            "Przystępne nieruchomości nad Adriatykiem i Morzem Jońskim",
+            "Znajduje się wśród NAJBEZPIECZNIEJSZYCH krajów w Europie",
+            "Korzystny klimat i 300 słonecznych dni w roku",
+            "Ekologicznie czyste produkty spożywcze",
+            "Najbardziej postępowy program rezydencji w Europie"
+        ]
+    },
+    "tour": {
+        "title": "Wycieczka inwestycyjna do Albanii",
+        "description": "Darmowa wycieczka po nieruchomościach w Albanii",
+        "steps": [
+            {
+                "number": "01.",
+                "title": "5-dniowa wycieczka",
+                "description": "Zwiedzanie miasta i spacery. Inspekcja szkół i uniwersytetów"
+            },
+            {
+                "number": "02.",
+                "title": "Wygodne dla Ciebie daty"
+            },
+            {
+                "number": "03.",
+                "title": "Spotkanie na lotnisku"
+            },
+            {
+                "number": "04.",
+                "title": "Transfer lotnisko/hotel/lotnisko",
+                "description": "Konsultacje dotyczące formalności transakcji"
+            },
+            {
+                "number": "05.",
+                "title": "Oglądanie nieruchomości",
+                "description": "Usługi prawne. Uzyskiwanie zezwolenia na pobyt. Otwieranie konta bankowego"
+            }
+        ]
+    },
+    "investForm": {
+        "formTitle": "Formularz zgłoszeniowy",
+        "formDescription": "Zostaw zgłoszenie, a nasz ekspert skontaktuje się z Tobą",
+        "nameLabel": "Imię",
+        "phoneLabel": "Numer telefonu",
+        "submitButtonText": "Wyślij zgłoszenie",
+        "invalidPhone": "Numer telefonu musi zaczynać się od znaku + i mieć co najmniej 7 cyfr.",
+        "invalidName": "Imię musi składać się z co najmniej 2 liter."
+    },
+    "contacts": {
+        "logoAltText": "Logo",
+        "realEstateText": "Nieruchomość",
+        "investmentTourText": "Wycieczka Inwestycyjna",
+        "regionsText": "Regiony Albanii",
+        "phoneIcon": {
+            "icon": "telefon",
+            "number": "+380 93 512 85 47"
+        },
+        "locationIcon": {
+            "icon": "lokalizacja",
+            "address": "Durrës, Albania",
+            "mapLink": "https://maps.app.goo.gl/yjVAhm7VPZNqnm3x7"
+        }
+    },
+    "footer": {
+        "subscribeTitle": "Zapisz się i bądź na bieżąco z aktualnymi wydarzeniami na rynku nieruchomości w Albanii!",
+        "socialMedia": [
+            {
+                "icon": "whatsapp",
+                "link": "https://wa.me/qr/XXBDREVA66NMP1",
+                "color": "#25D366"
+            },
+            {
+                "icon": "telegram",
+                "link": "https://www.t.me/real_estate_al",
+                "color": "#229ED9"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/profile.php?id=100069581861273&mibextid=9R9pXO",
+                "color": "#1877F2"
+            }
+        ],
+        "subscriptionBenefits": [
+            "Wiadomości na rynku nieruchomości w Albanii",
+            "Powiadomienia o nowych rozpoczęciach sprzedaży",
+            "Dostęp do ekskluzywnych obiektów na etapie pre-sale",
+            "Oferty inwestycyjne"
+        ],
+        "youtubeLink": "https://youtube.com/@albania_gid",
+        "tiktokLink": "https://www.tiktok.com/@real_estate_albania",
+        "we": "Jesteśmy na"
+    },
+    "investModal": {
+        "thanks": "Dziękujemy za zapytanie, skontaktujemy się z Tobą wkrótce!",
+        "close": "Zamknij"
+    }
+}
